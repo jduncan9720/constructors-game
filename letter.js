@@ -1,4 +1,4 @@
-function letters(character, beenGuessed) {
+function Letters(character, beenGuessed) {
     this.storeChar = character,
     this.beenGuessed = beenGuessed,
     this.ifGuessed = function () {
