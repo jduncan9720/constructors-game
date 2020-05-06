@@ -1,0 +1,22 @@
+{
+  "name": "constructors-game",
+  "version": "1.0.0",
+  "description": "Constructor-Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jduncan9720/constructors-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jduncan9720/constructors-game/issues"
+  },
+  "homepage": "https://github.com/jduncan9720/constructors-game#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  }
+}
